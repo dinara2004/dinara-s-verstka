@@ -1,0 +1,67 @@
+div{
+    color: purple;
+    text-align: center;
+}
+.text{
+   color: purple;
+    padding: 70px 200px 8px 200px;
+}
+.container{
+    width: 100vw;
+    height: 100vw;
+    background-color: hotpink;
+    overflow: hidden;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+form{
+    background-color: white;
+    font-family: "Arial Narrow", fantasy;
+    margin: 40px 80px 40px 100px;
+    width: 600px;
+    height: 600px;
+    /*padding: 100px;*/
+    /*columns:800px;*/
+    border-radius: 25px;
+}
+label{
+    color: gray;
+    display: block;
+}
+.formContent{
+    width: 600px;
+    margin: 50px 0 10px 150px;
+    padding: 25px;
+}
+.forgotPassword{
+    padding: 10px;
+}
+input{
+    padding: 10px 40px 10px;
+    font-family: "Calibri", serif;
+    margin: 20px 80px 20px 80px;
+    width: 360px;
+    border-radius: 25px;
+    border-color: purple;
+}
+input:focus{
+    border: 1px solid white;
+}
+input:hover{
+    background-color: papayawhip;
+}
+.sumbit{
+    background-color: cornflowerblue;
+}
+#myButton{
+    background-color: palevioletred;
+    padding: 10px 40px 10px ;
+    color: white;
+    margin: 20px 200px 20px 200px;
+    border-color: purple;
+    border-radius: 25px;
+    text-align: center;
+}
